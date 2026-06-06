@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
-PIL
+pillow
 tensorflow
 scikit-learn
+h5py
